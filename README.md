@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on university stuff mainly, and some side projects.
 - 🌱 I’m currently learning Vite, D3, Plotly and TS/JS.
 - 💬 Ask me about anything related to my repositories!
 - 📫 How to reach me: 🐥 at me
