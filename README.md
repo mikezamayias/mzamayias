@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on university stuff mainly, and some side projects.
-- 🌱 I’m currently learning Vite, D3, Plotly and TS/JS.
+- 🌱 I’m currently getting my hands dirty with Vite, D3, Plotly.js, TypeScript and Vu3.
 - 💬 Ask me about anything related to my repositories!
 - 📫 How to reach me: 🐥 or 📧 at me
 - ⚡ Fun fact: Every 60 seconds in Africa, a minute passes.
