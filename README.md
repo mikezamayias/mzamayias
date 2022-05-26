@@ -13,18 +13,14 @@ GitHub and I will be happy to help you.
 
 ## Languages I've been working with:
 
-<figure><img src="https://wakatime.com/share/@mzamagias/c5075d37-4361-432f-a010-e4e6586cf0d7.svg" alt="Languages over Last 7 Days"></figure>
-<figure><img src="https://wakatime.
-com/share/@mzamagias/56717cb3-042b-45db-b441-179f211ac912.svg" 
-alt="Languages over All Time"></figure>
+[//]: # (<figure><img src="https://wakatime.com/share/@mzamagias/c5075d37-4361-432f-a010-e4e6586cf0d7.svg" alt="Languages over Last 7 Days"></figure>)
 
-<figure>
-<img
-  src="https://github.com/mzamayias/mzamayias/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-</figure>
-Example:
+[//]: # (<figure><img src="https://wakatime.)
+
+[//]: # (com/share/@mzamagias/56717cb3-042b-45db-b441-179f211ac912.svg" )
+
+[//]: # (alt="Languages over All Time"></figure>)
+
 <img
   src="https://github.com/mzamayias/mzamayias/blob/main/images/stat.svg"
   alt="mzamayias WakaTime Activity"
