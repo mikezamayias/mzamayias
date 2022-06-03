@@ -9,7 +9,6 @@ I am passionate about software engineering, so give me my trusty VS Code, som' G
 ## Want to get in touch? Here are my socials
 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter-square.svg" width="36">](https://twitter.com/mzamayias)
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram-square.svg" width="36">](https://instagram.com/mzamayias)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="36">](https://linkedin.com/in/mzamayias)
 
 ## Languages I've been working with lately
